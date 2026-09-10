@@ -1,0 +1,21 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Keep private implementation and credentials out of this showcase.
+source/
+private/
+*.pem
+*.key
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.mobileprovision
+google-services.json
+
+# Demo recordings are published as release assets, not Git history.
+*.mov
+*.mp4
+
