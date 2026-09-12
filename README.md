@@ -98,8 +98,8 @@ flowchart LR
 
 ## 데모
 
-- [2분 웹 제품 워크스루 다운로드](https://github.com/blockcoder-sj/fancy-showcase/releases/download/v1.0-showcase/fancy-web-showcase.mp4)
-- [심사위원용 3분 시연 순서](docs/DEMO.md)
+- [데모 영상](https://youtu.be/eONTsMdBYo4)
+
 
 영상은 공개 전 구간을 검토하고 개인정보가 등장하기 전 구간만 새 파일로 내보냈습니다.
 
